@@ -1,7 +1,7 @@
 # Senior-Seminar-Research
 ## What can eigenvalues teach us about quantum fields?
 
-I am researching the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. I began this research in fall 2021 and will be writing a paper on my findings as well. 
+For my math Senior Seminar project, I am researching the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. I began this research in fall 2021 and will be writing a 10-page expository paper, which will be completed by spring 2022. 
 
 ### senior_seminar_current: 
 * This is where I am storing all of my code to generate different eigenvalues
