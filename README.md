@@ -10,6 +10,7 @@ I am researching the spectra of eigenvalues generated in many different ways. Th
 ### Senior_Seminar_Stats
 * Contains a collection of functions for statistical analysis on these algorithms, such as mean, standard deviation, etc.
 * Displays the results from this analysis and contains observations made
+* _Note: This notebook is rather large, and it is likely that not all images will load at first. For easier access to visual depictions, please refer to the Google drive folder._
 
 #### [Google Drive Folder of Data Collection](https://drive.google.com/drive/folders/1Xgm2uUiUob-MiAytpJ6Yp9cBu1OCzeBp?usp=sharing)
 
