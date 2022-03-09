@@ -19,3 +19,7 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 * Python & Numpy
 * SageMath
 
+### Usage Instructions: 
+* In either code file: If you try to run the code, you must run the first block before you can run the other blocks. They are dependent upon functions in the first blocks.
+* If you do not have Jupyter Notebook on your computer, you can run this code from a Google colab notebook online. There is **1 exception** to this: 
+  * If you want to run one of the Cayley graph blocks in Eigenvalue & Graph Generation, you must have SageMath installed on your computer. Furthermore, you must configure Jupyter Notebook on your computer to be compatible with SageMath.
