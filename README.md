@@ -3,6 +3,8 @@
 
 For my math Senior Seminar project, I am researching the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. I began this research in fall 2021 and will be writing a 10-page expository paper, which will be completed by spring 2022. 
 
+## Code Notebooks
+
 ### Eigenvalue & Graph Generation: 
 * This is where I am storing all of my code to generate different eigenvalues
 * I create eigenvalues from the adjacency matrices from n-gons, random adjacency matrices, random symmetric matrices, Uniform, and Poisson distributions
@@ -10,6 +12,8 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 ### Statistical_Analysis:
 * Contains a collection of functions for statistical analysis on these eigenvalues, such as mean, standard deviation, etc.
 * Displays the results from this analysis and contains observations made
+
+## Presentations
 
 ### Graphs_Eigenvalues_Presentation:
 * These are slides from my first presentation on my work (March 2022). It roughly covers the first half of material, focusing on the mechanics of the research itself and briefly introducing observations.
