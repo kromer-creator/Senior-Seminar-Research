@@ -6,8 +6,10 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 ## Code Notebooks
 
 ### Eigenvalue & Graph Generation: 
-* This is where I am storing all of my code to generate different eigenvalues
-* I create eigenvalues from the adjacency matrices from n-gons, random adjacency matrices, random symmetric matrices, Uniform, and Poisson distributions
+* This is where I am storing all of my code to generate different eigenvalues and other number spectra.
+* I create eigenvalues from the adjacency matrices from n-gons, random adjacency matrices, and random symmetric matrices (normal and uniformly populated).
+* Also model spectra of Uniform and Poisson distributions
+* Histograms generated in this file
 
 ### Statistical_Analysis:
 * Contains a collection of functions for statistical analysis on these eigenvalues, such as mean, standard deviation, etc.
@@ -20,6 +22,8 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 
 ### Mathematical Connections through Eigenvalue Spacings:
 * These are slides from my second presentation (April 2022). It covers a more sophisticated motivation for my research, including background on the mathematical branches that may be connected through the study of eigenvalue spacings. It also discusses more observations.
+
+## Other Information:
 
 ### Tools:
 * Jupyter Notebook
