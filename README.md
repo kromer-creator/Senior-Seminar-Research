@@ -29,7 +29,7 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 * Jupyter Notebook
 * Python & Numpy
 * SageMath
-* LateX (for presentations and paper), written on [Overleaf](https://overleaf.com)
+* LaTeX (for presentations and paper), written on [Overleaf](https://overleaf.com)
 
 ### Usage Instructions: 
 * If you do not have Jupyter Notebook on your computer, you can run this code from a Google colab notebook online. There is **1 exception** to this: 
