@@ -17,7 +17,7 @@ For my math Senior Seminar project, I am researching the spectra of eigenvalues 
 
 ## Presentations
 
-### Graphs_Eigenvalues_Presentation:
+### Graphs and Eigenvalue Distributions:
 * These are slides from my first presentation on my work (March 2022). It roughly covers the first half of material, focusing on the mechanics of the research itself and briefly introducing observations.
 
 ### Mathematical Connections through Eigenvalue Spacings:
