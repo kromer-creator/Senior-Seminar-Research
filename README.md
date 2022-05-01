@@ -1,12 +1,16 @@
 # Senior-Seminar-Research
 ## What can eigenvalues teach us about quantum fields?
 
-For my math Senior Seminar project, I am researching the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. I began this research in fall 2021 and will be writing a 10-page expository paper, which will be completed by spring 2022. 
+For my math Senior Seminar project, I researched the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. The general motivation is to discover connections between various branches of mathematics through studying the spectra of eigenvalues. This project includes 2 presentations and a research paper, which were completed over the course of my senior year, Fall 2021-Spring 2022.
+
+## My Paper: Mathematical Connections through Eigenvalue Spacings
+* 
+* This 15-page paper thoroughly explains the motivation for my research, what my research is, how it was done, and analysis of findings. 
 
 ## Code Notebooks
 
 ### Eigenvalue & Graph Generation: 
-* This is where I am storing all of my code to generate different eigenvalues and other number spectra.
+* This is where I am store all of my code to generate different eigenvalues and other number spectra.
 * I create eigenvalues from the adjacency matrices from n-gons, random adjacency matrices, and random symmetric matrices (normal and uniformly populated).
 * Also model spectra of Uniform and Poisson distributions
 * Histograms generated in this file
