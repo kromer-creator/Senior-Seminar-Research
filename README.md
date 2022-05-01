@@ -1,10 +1,10 @@
 # Senior-Seminar-Research
 ## What can eigenvalues teach us about quantum fields?
 
-For my math Senior Seminar project, I researched the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. The general motivation is to discover connections between various branches of mathematics through studying the spectra of eigenvalues. This project includes 2 presentations and a research paper, which were completed over the course of my senior year, Fall 2021-Spring 2022.
+For my math Senior Seminar project, I researched the spectra of eigenvalues generated in many different ways. This is inspired by a paper entitled "Finite Quantum Chaos" written by Audrey Terras. The general motivation is to discover connections between various branches of mathematics through studying the spectra of eigenvalues. This project includes 2 presentations and a research paper, which were completed over the course of my senior year, Fall 2021-Spring 2022. The research portion of this project was completed using code written in Jupyter notebooks.
 
 ## My Paper: Mathematical Connections through Eigenvalue Spacings
-* 
+* File: Senior_Seminar_Paper.pdf
 * This 15-page paper thoroughly explains the motivation for my research, what my research is, how it was done, and analysis of findings. 
 
 ## Code Notebooks
@@ -28,6 +28,11 @@ For my math Senior Seminar project, I researched the spectra of eigenvalues gene
 * These are slides from my second presentation (April 2022). It covers a more sophisticated motivation for my research, including background on the mathematical branches that may be connected through the study of eigenvalue spacings. It also discusses more observations.
 
 ## Other Information:
+
+### Access "Finite Quantum Chaos" by Audrey Terras: 
+* Link: https://www.tandfonline.com/doi/pdf/10.1080/00029890.2002.11919846?needAccess=true
+* Requires access, either through university credentials, purchase, or membership
+* Alternatively, access Dr. Terras' lecture notes on the topic: ["Finite Models for Arithmetical Quantum Chaos"](https://mathweb.ucsd.edu/~aterras/newchaos.pdf)
 
 ### Tools:
 * Jupyter Notebook
